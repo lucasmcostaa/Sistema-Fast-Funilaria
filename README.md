@@ -6,7 +6,7 @@ Seja Bem Vindo ao nosso projeto, vamos conhecer um pouco mais sobre o nosso sist
 Primeiro passo é entrar no sistema através do login e senha.
 ![login](https://github.com/lucasmcostaa/Sistema-Fast-Funilaria/assets/93685778/0000b15c-af2e-469f-a259-756f9a0119d0)
 
-Após logar, abrirá o menu do sistema onde podemos cadastrar usuarios,clientes e Ordem de serviço.
+Após logar, abrirá o menu do sistema onde podemos cadastrar usuarios, clientes e Ordem de serviço.
 ![main](https://github.com/lucasmcostaa/Sistema-Fast-Funilaria/assets/93685778/7f6b000a-dbeb-41ad-8759-4ddd8a9783ae)
 
 Aqui podemos cadastrar um novo usuario para acessar o sistema.
