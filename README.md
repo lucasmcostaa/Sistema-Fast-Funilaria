@@ -2,7 +2,7 @@
 Projeto Integrador
 
 
-Seja bem vindo ao nosso projeto, venha conhecer um pouco mais sobre o nosso sistema.
+Seja bem vindo ao nosso projeto, venha conhecer o nosso sistema.
 
 
 
