@@ -34,7 +34,7 @@ Sobre o desenvolvimento do projeto.
 ![sobre](https://github.com/lucasmcostaa/Sistema-Fast-Funilaria/assets/93685778/b0b6f5f3-d793-4b17-8ffe-a4f490d9bd7d)
 
 
-Obrigado por conhecer nosso projeto.
+Obrigado por visitar nosso Sistema.
 
 
 
