@@ -1,6 +1,7 @@
 # Sistema-Fast-Funilaria
 Projeto Integrador
 
+
 Seja Bem Vindo ao nosso projeto, vamos conhecer um pouco mais sobre o nosso sistema.
 
 Primeiro passo é entrar no sistema através do login e senha.
@@ -11,6 +12,9 @@ Após logar, abrirá o menu do sistema onde podemos cadastrar usuarios, clientes
 
 Aqui podemos cadastrar um novo usuario para acessar o sistema.
 ![usuarios](https://github.com/lucasmcostaa/Sistema-Fast-Funilaria/assets/93685778/f6eb4264-83a4-4218-87f5-29cd6d6a35c0)
+
+Precisamos cadastrar o cliente antes de fazer a ordem de serviço.
+![clientes](https://github.com/lucasmcostaa/Sistema-Fast-Funilaria/assets/93685778/778ec9de-231b-4201-8baf-52571bee2765)
 
 
 
